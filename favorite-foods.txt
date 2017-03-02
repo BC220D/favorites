@@ -2,4 +2,8 @@ Strawberries
 Steak
 Ice cream
 Tacos
+<<<<<<< HEAD
+Rice
+=======
 Cheesecake
+>>>>>>> 31fb79eefb10471f723d1fb2709914b5107f8bb4
